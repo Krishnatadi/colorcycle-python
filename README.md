@@ -131,7 +131,7 @@ print(f"{random_color}")
 
 
 ## Compatibility and Framework Support
-`ColorCycle` is lightweight and framework-agnostic, but it works seamlessly with modern Python and JavaScript frameworks [pip install colorcycle](https://www.npmjs.com/package/alluuid) like React, Vue.js, Angular, and Svelte.
+`ColorCycle` is lightweight and framework-agnostic, but it works seamlessly with modern Python and JavaScript frameworks [pip install colorcycle](https://www.npmjs.com/package/colorcycle) like React, Vue.js, Angular, and Svelte.
 
 
 ## Community and Ecosystem
