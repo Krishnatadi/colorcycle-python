@@ -9,7 +9,7 @@
 To install this package:
 
 ```bash
-pip install alluuid
+pip install colorcycle
 ```
 
 

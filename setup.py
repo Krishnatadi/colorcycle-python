@@ -19,7 +19,7 @@ setup(
         'Environment :: Console',
     ],
     python_requires='>=3.6',
-    keywords='web scraping, data extraction, html parser, scraping',
+    keywords='"color", "color conversion", "hex to rgb", "rgb to hex", "hex to hsl", "rgb to hsl", "hsl to rgb", "hsl to hex", "color parser", "random color", "web development", "design", "javascript", "css colors", "hex color", "rgb color", "hsl color", "colorcycle", "frontend tools", "color utilities", "color manipulation", "color names", "color library", "web design", "frontend development"',
     project_urls={
     'Documentation': 'https://github.com/krishnatadi/colorcycle-python#readme',
     'Source': 'https://github.com/krishnatadi/colorcycle-python',
